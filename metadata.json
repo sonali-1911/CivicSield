@@ -1,0 +1,10 @@
+{
+  "name": "CivicShield AI",
+  "description": "Explainable civic-issue triage platform with AI-assisted report extraction, deterministic priority scoring, operator command center, and public impact tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
